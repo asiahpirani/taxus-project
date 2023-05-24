@@ -1,0 +1,124 @@
+Project,Sample,SampleName,Var,Genus,ProjectNum,TissueNum,GenusNum,Tissue
+PRJNA360896,SRR5167057,leaf_control_rep_3 ,Taxus Chinensis,Taxus Chinensis,1,1,1,Leaf
+PRJNA360896,SRR5167058,leaf_control_rep_2 ,Taxus Chinensis,Taxus Chinensis,1,1,1,Leaf
+PRJNA360896,SRR5167059,leaf_control_rep_1 ,Taxus Chinensis,Taxus Chinensis,1,1,1,Leaf
+PRJNA360896,SRR5167060,leaf_coldstress_rep_3 ,Taxus Chinensis,Taxus Chinensis,1,2,1,Leaf_cold
+PRJNA360896,SRR5167061,leaf_coldstress_rep_2 ,Taxus Chinensis,Taxus Chinensis,1,2,1,Leaf_cold
+PRJNA360896,SRR5167062,leaf_coldstress_rep_1 ,Taxus Chinensis,Taxus Chinensis,1,2,1,Leaf_cold
+PRJNA427840,SRR6428981,Needle,Taxus wallichiana var. wallichiana,Taxus wallichiana,2,1,2,Leaf
+PRJNA427840,SRR6428982,Stem,Taxus wallichiana var. wallichiana,Taxus wallichiana,2,3,2,Stem
+PRJNA427840,SRR6428983,Root,Taxus wallichiana var. wallichiana,Taxus wallichiana,2,4,2,Root
+PRJNA493167,SRR10913922,stem2,Taxus cuspidata,Taxus cuspidata,3,3,3,Stem
+PRJNA493167,SRR10913923,stem1,Taxus cuspidata,Taxus cuspidata,3,3,3,Stem
+PRJNA493167,SRR10913924,leaf4,Taxus cuspidata,Taxus cuspidata,3,1,3,Leaf
+PRJNA493167,SRR10913925,leaf3,Taxus cuspidata,Taxus cuspidata,3,1,3,Leaf
+PRJNA493167,SRR10913926,leaf2,Taxus cuspidata,Taxus cuspidata,3,1,3,Leaf
+PRJNA493167,SRR10913927,leaf1,Taxus cuspidata,Taxus cuspidata,3,1,3,Leaf
+PRJNA493167,SRR10913928,root4,Taxus cuspidata,Taxus cuspidata,3,4,3,Root
+PRJNA493167,SRR10913929,root3,Taxus cuspidata,Taxus cuspidata,3,4,3,Root
+PRJNA493167,SRR10913930,stem4,Taxus cuspidata,Taxus cuspidata,3,3,3,Stem
+PRJNA493167,SRR10913931,stem3,Taxus cuspidata,Taxus cuspidata,3,3,3,Stem
+PRJNA493167,SRR10913932,root2,Taxus cuspidata,Taxus cuspidata,3,4,3,Root
+PRJNA493167,SRR10913933,root1,Taxus cuspidata,Taxus cuspidata,3,4,3,Root
+PRJNA497542,SRR8080080,fresh twigs,Taxus mairei,Taxus mairei,4,5,4,Twig
+PRJNA497542,SRR8080081,fresh twigs,Taxus mairei,Taxus mairei,4,5,4,Twig
+PRJNA497542,SRR8080082,fresh twigs,Taxus mairei,Taxus mairei,4,5,4,Twig
+PRJNA497542,SRR8080083,fresh twigs,Taxus cuspidata,Taxus cuspidata,4,5,3,Twig
+PRJNA497542,SRR8080084,fresh twigs,Taxus cuspidata,Taxus cuspidata,4,5,3,Twig
+PRJNA497542,SRR8080085,fresh twigs,Taxus cuspidata,Taxus cuspidata,4,5,3,Twig
+PRJNA497542,SRR8080086,fresh twigs,Taxus x media,Taxus x media,4,5,5,Twig
+PRJNA497542,SRR8080087,fresh twigs,Taxus x media,Taxus x media,4,5,5,Twig
+PRJNA497542,SRR8080088,fresh twigs,Taxus x media,Taxus x media,4,5,5,Twig
+PRJNA499080,SRR8130348,needle_TxWn_1,Taxus contorta,Taxus contorta,5,6,6,Needle_wn
+PRJNA499080,SRR8130349,needle_TxWn_2,Taxus contorta,Taxus contorta,5,6,6,Needle_wn
+PRJNA499080,SRR8130350,needle_TxSm_1,Taxus contorta,Taxus contorta,5,7,6,Needle_sm
+PRJNA499080,SRR8130351,needle_TxSm_2,Taxus contorta,Taxus contorta,5,7,6,Needle_sm
+PRJNA580323,SRR10381647,TcBark-P60,Taxus chinensis,Taxus Chinensis,6,8,1,TBark
+PRJNA580323,SRR10381648,TcBark-P18,Taxus chinensis,Taxus Chinensis,6,8,1,TBark
+PRJNA580323,SRR10381649,TcBark-P12,Taxus chinensis,Taxus Chinensis,6,8,1,TBark
+PRJNA580323,SRR10381650,TcBark-P6,Taxus chinensis,Taxus Chinensis,6,8,1,TBark
+PRJNA580323,SRR10381651,TcBark-P0,Taxus chinensis,Taxus Chinensis,6,8,1,TBark
+PRJNA586725,SRR10376327,Leaves_1,Taxus x media,Taxus x media,7,1,5,Leaf
+PRJNA586725,SRR10376328,Leaves_2,Taxus x media,Taxus x media,7,1,5,Leaf
+PRJNA586725,SRR10376329,Leaves_3,Taxus x media,Taxus x media,7,1,5,Leaf
+PRJNA661543,SRR14089425,Leaf_1,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,1,2,Leaf
+PRJNA661543,SRR14089426,Bark_3,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,9,2,Bark
+PRJNA661543,SRR14089427,Bark_4,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,9,2,Bark
+PRJNA661543,SRR14089428,Bark_5,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,9,2,Bark
+PRJNA661543,SRR14089429,Stem_1,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,3,2,Stem
+PRJNA661543,SRR14089430,Stem_2,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,3,2,Stem
+PRJNA661543,SRR14089431,Stem_3,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,3,2,Stem
+PRJNA661543,SRR14089432,Root_1,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,4,2,Root
+PRJNA661543,SRR14089433,Leaf_2,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,1,2,Leaf
+PRJNA661543,SRR14089434,Leaf_3,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,1,2,Leaf
+PRJNA661543,SRR14089435,Root_2,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,4,2,Root
+PRJNA661543,SRR14089436,Root_3,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,4,2,Root
+PRJNA661543,SRR14453978,Bark_1_1,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,9,2,Bark
+PRJNA661543,SRR14453979,Bark_1_2,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,9,2,Bark
+PRJNA661543,SRR14865989,Bark_1_6,Taxus wallichiana var. yunnanensis,Taxus wallichiana,8,9,2,Bark
+PRJNA730337,SRR14744724,B8h-MJ,Taxus Chinensis,Taxus Chinensis,9,13,1,MJ
+PRJNA730337,SRR14744725,B8h_CK,Taxus Chinensis,Taxus Chinensis,9,14,1,CK
+PRJNA730337,SRR14744726,B4h-MJ,Taxus Chinensis,Taxus Chinensis,9,13,1,MJ
+PRJNA730337,SRR14744727,B4h_CK,Taxus Chinensis,Taxus Chinensis,9,14,1,CK
+PRJNA730337,SRR14744728,B2h-MJ,Taxus Chinensis,Taxus Chinensis,9,13,1,MJ
+PRJNA730337,SRR14744730,B2h_CK,Taxus Chinensis,Taxus Chinensis,9,14,1,CK
+PRJNA730337,SRR14744731,B24h-MJ,Taxus Chinensis,Taxus Chinensis,9,13,1,MJ
+PRJNA730337,SRR14744732,B24h_CK,Taxus Chinensis,Taxus Chinensis,9,14,1,CK
+PRJNA730337,SRR14744733,B0h-MJ,Taxus Chinensis,Taxus Chinensis,9,13,1,MJ
+PRJNA730337,SRR14744734,B0h_CK,Taxus Chinensis,Taxus Chinensis,9,14,1,CK
+PRJNA730337,SRR14744735,cell_line_197_rep3,Taxus Chinensis,Taxus Chinensis,9,11,1,C1
+PRJNA730337,SRR14744736,cell_line_197_rep2,Taxus Chinensis,Taxus Chinensis,9,11,1,C1
+PRJNA730337,SRR14744737,cell_line_197_rep1,Taxus Chinensis,Taxus Chinensis,9,11,1,C1
+PRJNA730337,SRR14744738,cell_line_16_rep3,Taxus Chinensis,Taxus Chinensis,9,12,1,C2
+PRJNA730337,SRR14744739,cell_line_16_rep1,Taxus Chinensis,Taxus Chinensis,9,12,1,C2
+PRJNA730337,SRR14744741,cell_line_16_rep2,Taxus Chinensis,Taxus Chinensis,9,12,1,C2
+PRJNA730337,SRR14744742,root_male_1,Taxus Chinensis,Taxus Chinensis,9,4,1,Root
+PRJNA730337,SRR14744743,root_male_2,Taxus Chinensis,Taxus Chinensis,9,4,1,Root
+PRJNA730337,SRR14744744,root_male_3,Taxus Chinensis,Taxus Chinensis,9,4,1,Root
+PRJNA730337,SRR14744745,leaf_male_1,Taxus Chinensis,Taxus Chinensis,9,1,1,Leaf
+PRJNA730337,SRR14744746,leaf_male_2,Taxus Chinensis,Taxus Chinensis,9,1,1,Leaf
+PRJNA730337,SRR14744747,leaf_male_3,Taxus Chinensis,Taxus Chinensis,9,1,1,Leaf
+PRJNA730337,SRR14744748,cone_male_1,Taxus Chinensis,Taxus Chinensis,9,10,1,Cone
+PRJNA730337,SRR14744749,cone_male_2,Taxus Chinensis,Taxus Chinensis,9,10,1,Cone
+PRJNA730337,SRR14744750,cone_male_3,Taxus Chinensis,Taxus Chinensis,9,10,1,Cone
+PRJNA730337,SRR14744752,bark_male_1,Taxus Chinensis,Taxus Chinensis,9,9,1,Bark
+PRJNA730337,SRR14744753,bark_male_2,Taxus Chinensis,Taxus Chinensis,9,9,1,Bark
+PRJNA730337,SRR14744754,bark_male_3,Taxus Chinensis,Taxus Chinensis,9,9,1,Bark
+PRJNA730337,SRR14744755,leaf_female_1,Taxus Chinensis,Taxus Chinensis,9,1,1,Leaf
+PRJNA730337,SRR14744756,leaf_female_2,Taxus Chinensis,Taxus Chinensis,9,1,1,Leaf
+PRJNA730337,SRR14744757,leaf_female_3,Taxus Chinensis,Taxus Chinensis,9,1,1,Leaf
+PRJNA730337,SRR14744758,cone_female_1,Taxus Chinensis,Taxus Chinensis,9,10,1,Cone
+PRJNA730337,SRR14744759,cone_female_2,Taxus Chinensis,Taxus Chinensis,9,10,1,Cone
+PRJNA730337,SRR14744760,cone_female_3,Taxus Chinensis,Taxus Chinensis,9,10,1,Cone
+PRJNA730337,SRR14744761,root_female_1,Taxus Chinensis,Taxus Chinensis,9,4,1,Root
+PRJNA730337,SRR14744763,root_female_2,Taxus Chinensis,Taxus Chinensis,9,4,1,Root
+PRJNA730337,SRR14744764,root_female_3,Taxus Chinensis,Taxus Chinensis,9,4,1,Root
+PRJNA730337,SRR14744765,bark_female_1,Taxus Chinensis,Taxus Chinensis,9,9,1,Bark
+PRJNA730337,SRR14744766,bark_female_2,Taxus Chinensis,Taxus Chinensis,9,9,1,Bark
+PRJNA730337,SRR14744767,bark_female_3,Taxus Chinensis,Taxus Chinensis,9,9,1,Bark
+PRJNA733140,SRR14667129,twigs_female,Taxus x media,Taxus x media,10,5,5,Twig
+PRJNA733140,SRR14667130,twigs_female,Taxus x media,Taxus x media,10,5,5,Twig
+PRJNA733140,SRR14667131,twigs_female,Taxus x media,Taxus x media,10,5,5,Twig
+PRJNA733140,SRR14667132,twigs_male,Taxus x media,Taxus x media,10,5,5,Twig
+PRJNA733140,SRR14667133,twigs_male,Taxus x media,Taxus x media,10,5,5,Twig
+PRJNA733140,SRR14667134,twigs_male,Taxus x media,Taxus x media,10,5,5,Twig
+PRJNA797697,SRR17673883,root-10,Taxus cuspidata,Taxus cuspidata,11,4,3,Root
+PRJNA797697,SRR17673884,root-9,Taxus cuspidata,Taxus cuspidata,11,4,3,Root
+PRJNA797697,SRR17673885,root-8,Taxus cuspidata,Taxus cuspidata,11,4,3,Root
+PRJNA797697,SRR17673886,root-7,Taxus cuspidata,Taxus cuspidata,11,4,3,Root
+PRJNA797697,SRR17673887,root-6,Taxus cuspidata,Taxus cuspidata,11,4,3,Root
+PRJNA797697,SRR17673888,root-5,Taxus cuspidata,Taxus cuspidata,11,4,3,Root
+PRJNA797697,SRR17673889,root-4,Taxus cuspidata,Taxus cuspidata,11,4,3,Root
+PRJNA797697,SRR17673890,root-3,Taxus cuspidata,Taxus cuspidata,11,4,3,Root
+PRJNA797697,SRR17673891,root-12,Taxus cuspidata,Taxus cuspidata,11,4,3,Root
+PRJNA797697,SRR17673892,root-11,Taxus cuspidata,Taxus cuspidata,11,4,3,Root
+PRJNA797697,SRR17673893,root-2,Taxus cuspidata,Taxus cuspidata,11,4,3,Root
+PRJNA797697,SRR17673894,root-1,Taxus cuspidata,Taxus cuspidata,11,4,3,Root
+PRJNA848951,SRR19646419,Leaf_1,Taxus chinensis (Pilger) Rehd.,Taxus Chinensis,12,1,1,Leaf
+PRJNA848951,SRR19646420,Leaf_2,Taxus chinensis (Pilger) Rehd.,Taxus Chinensis,12,1,1,Leaf
+PRJNA848951,SRR19646421,Leaf_3,Taxus chinensis (Pilger) Rehd.,Taxus Chinensis,12,1,1,Leaf
+PRJNA848951,SRR19646422,Leaf_4,Taxus chinensis (Pilger) Rehd.,Taxus Chinensis,12,1,1,Leaf
+PRJNA848951,SRR19646424,Leaf_5,Taxus chinensis (Pilger) Rehd.,Taxus Chinensis,12,1,1,Leaf
+PRJNA848951,SRR19646425,Leaf_6,Taxus chinensis (Pilger) Rehd.,Taxus Chinensis,12,1,1,Leaf
+PRJNA848951,SRR19646426,Leaf_7,Taxus chinensis (Pilger) Rehd.,Taxus Chinensis,12,1,1,Leaf
+PRJNA848951,SRR19646427,Leaf_8,Taxus chinensis (Pilger) Rehd.,Taxus Chinensis,12,1,1,Leaf
